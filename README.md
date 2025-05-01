@@ -52,3 +52,11 @@ To run this project, make sure you have a C environment set up with the necessar
 - Reads the number of individuals from the CSV file.
 - Calls the three approaches (Naive, Multiprocessing, and Multithreading) to compute and display the average BMI and execution time.
 
+## ✍️ Author Yara Khattab
+
+📧 Email: yarakhattab16@gmail.com
+
+
+
+🔗 GitHub: github.com/yarakhattab
+
