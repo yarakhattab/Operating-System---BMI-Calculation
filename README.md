@@ -58,5 +58,5 @@ To run this project, make sure you have a C environment set up with the necessar
 
 
 
-🔗 GitHub: github.com/yarakhattab
+🔗 [GitHub: @yarakhattab](https://github.com/yarakhattab)
 
